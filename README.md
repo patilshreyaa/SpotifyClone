@@ -1,4 +1,6 @@
 #Spotify Clone 
 
-About
-Simple Spotify Clone created using HTML and Vanilla CSS...
+
+Simple Spotify Clone created using 
+HTML 
+Vanilla CSS...
